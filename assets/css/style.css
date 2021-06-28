@@ -21,7 +21,7 @@ a {
 }
 
 .timeline-body a{
-    color: #68c3a3;
+    color: #68c3a3 !important;
 }
 
 .timeline-body a:hover{
